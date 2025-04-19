@@ -1,7 +1,11 @@
-# Elevate_labs_Task_2
-Superstore_Dashboard
 
-- Superstore dataset storytelling:-
+## Elevate_labs_Task_2
+
+
+# Superstore_Dashboard
+
+
+- **Superstore dataset storytelling:-**
 
 
 - Imported 3 key metrics at the top of the dashboard:
