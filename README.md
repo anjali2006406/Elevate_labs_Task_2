@@ -8,7 +8,7 @@
 - **Superstore dataset storytelling:-**
 
 
-- **Imported 3 key metrics at the top of the dashboard:**
+ **Imported 3 key metrics at the top of the dashboard:**
   
 
 - Sum of Sales: 2.30M
