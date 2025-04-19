@@ -33,7 +33,7 @@
 - This helps in identifying which products are more profitable and which are incurring losses.
 
 
-  --
+  ---
   
 
 2. Second chart is the "Sum of Profit by Region", displayed as a donut chart.
@@ -50,7 +50,7 @@
 - This shows that focusing on the West and East regions could be more beneficial for the business.
   
 
---
+---
 
  3. Third chart is "Sum of Quantity by Sub-Category" shown as a horizontal bar chart.
     
@@ -66,7 +66,7 @@
 - This chart is useful for understanding product demand irrespective of profitability.
   
 
---
+---
 
 
  4. Fourth chart is "Sum of Profit by Category", displayed in a pie chart.
