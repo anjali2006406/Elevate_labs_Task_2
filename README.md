@@ -5,7 +5,7 @@
 # Superstore_Dashboard
 
 
-- **Superstore dataset storytelling:-**
+ **Superstore dataset storytelling:-**
 
 
  **Imported 3 key metrics at the top of the dashboard:**
@@ -40,7 +40,7 @@
 
    
 
-![image](https://github.com/user-attachments/assets/db7b0b32-f4da-47aa-8dfb-cdee1e852954)
+ ![image](https://github.com/user-attachments/assets/db7b0b32-f4da-47aa-8dfb-cdee1e852954)
 
 
 
@@ -56,7 +56,7 @@
     
     
 
-    ![image](https://github.com/user-attachments/assets/21581a2c-71cc-4033-aefa-36d2368a2e13)
+  ![image](https://github.com/user-attachments/assets/21581a2c-71cc-4033-aefa-36d2368a2e13)
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-    ![image](https://github.com/user-attachments/assets/e7c62af7-9a8d-45b8-96ab-265e5053dca5)
+  ![image](https://github.com/user-attachments/assets/e7c62af7-9a8d-45b8-96ab-265e5053dca5)
 
 
 
