@@ -27,10 +27,13 @@
 
 
 
+
 - The sub-category Copiers leads with the highest profit, followed by Phones, Accessories, and Paper.
 - The sub-category Tables shows a significant loss (negative profit), along with Bookcases and Supplies showing very low or negative profit.
 - This helps in identifying which products are more profitable and which are incurring losses.
 
+
+  --
   
 
 2. Second chart is the "Sum of Profit by Region", displayed as a donut chart.
@@ -41,11 +44,13 @@
 
 
 
+
 - The West region contributes the highest profit at 37.86% (~108.42K).
 - The East follows with 31.96%, South with 16.32%, and Central has the lowest profit share at 13.86%.
 - This shows that focusing on the West and East regions could be more beneficial for the business.
   
 
+--
 
  3. Third chart is "Sum of Quantity by Sub-Category" shown as a horizontal bar chart.
     
@@ -55,10 +60,14 @@
 
 
 
+
 - Binders and Paper are the most sold items in terms of quantity, followed by Furnishings and Phones.
 - Accessories and Art are among the sub-categories with comparatively lower quantities sold.
 - This chart is useful for understanding product demand irrespective of profitability.
   
+
+--
+
 
  4. Fourth chart is "Sum of Profit by Category", displayed in a pie chart.
 
