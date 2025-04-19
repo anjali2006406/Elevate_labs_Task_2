@@ -84,3 +84,15 @@
 
 
   ---
+
+
+   # Author
+ 
+**Anjali Singh**
+
+Aspiring Business and Data Analyst
+
+🔗 [LinkedIn] :-www.linkedin.com/in/anjalissingh
+
+
+---
